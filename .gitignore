@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+.metadata
+ipch
+bin
+*.doc
+*.docx
+*.out
+*.exe
+*.o
+*.class
+*.log
+/bin/
+/Release/
